@@ -13,3 +13,13 @@ There are no practical questions just therotical.
 
 ### Formative assesment 
 - Week 5
+
+### Areas covered
+
+#### Vision
+- Model Based Vision
+- Image Based Processing
+
+#### Graphics
+- Rendering
+- Rasterisation
