@@ -11,7 +11,11 @@
 - Not about programming in OpenGL etc
 - Its the understanding in how it works
 
-
+### Computer vision is hard
+- Illumination
+- Small diffrences can have diffrent classes
+- Lots of data 
+- Large area to search
 
 
 ### TODO
